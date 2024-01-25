@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "button[ng-show='!vm.options.save.hidden']"
+}

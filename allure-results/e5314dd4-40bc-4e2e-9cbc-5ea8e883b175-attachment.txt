@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"button[type='button'][aria-hidden='false']\"}\n  (Session info: chrome=120.0.6099.225)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF625392142+3514994]\n\t(No symbol) [0x00007FF624FB0CE2]\n\t(No symbol) [0x00007FF624E576AA]\n\t(No symbol) [0x00007FF624EA1860]\n\t(No symbol) [0x00007FF624EA197C]\n\t(No symbol) [0x00007FF624EE4EE7]\n\t(No symbol) [0x00007FF624EC602F]\n\t(No symbol) [0x00007FF624EE28F6]\n\t(No symbol) [0x00007FF624EC5D93]\n\t(No symbol) [0x00007FF624E94BDC]\n\t(No symbol) [0x00007FF624E95C64]\n\tGetHandleVerifier [0x00007FF6253BE16B+3695259]\n\tGetHandleVerifier [0x00007FF625416737+4057191]\n\tGetHandleVerifier [0x00007FF62540E4E3+4023827]\n\tGetHandleVerifier [0x00007FF6250E04F9+689705]\n\t(No symbol) [0x00007FF624FBC048]\n\t(No symbol) [0x00007FF624FB8044]\n\t(No symbol) [0x00007FF624FB81C9]\n\t(No symbol) [0x00007FF624FA88C4]\n\tBaseThreadInitThunk [0x00007FFABD517344+20]\n\tRtlUserThreadStart [0x00007FFABE0A26B1+33]\n"
+}

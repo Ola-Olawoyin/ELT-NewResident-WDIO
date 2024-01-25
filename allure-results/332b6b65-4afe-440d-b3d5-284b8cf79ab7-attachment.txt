@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".btn.btn-success.btn-card.action-save.ng-binding"
+}

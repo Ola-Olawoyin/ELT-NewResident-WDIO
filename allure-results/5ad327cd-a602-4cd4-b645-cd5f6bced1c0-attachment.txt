@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".alert.alert-info.ng-binding.ng-scope"
+}

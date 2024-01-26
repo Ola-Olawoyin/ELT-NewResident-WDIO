@@ -113,12 +113,12 @@ Then(/^Makes the new resident active$/, async () => {
   await $("button[fdprocessedid='03v0i7']").click();
 });
 
-// Then(/^The new resident is searchable in the search window$/, async () => {
-//   await $("#customersTab").click();
-//   await $("#filterTerm").setValue("Smith");
-//   await $("div[role='button']").click();
-// });
+Then(/^The new resident is searchable in the search window$/, async () => {
+  await $("#customersTab").click();
+  await $("#filterTerm").setValue("Smith");
+  await $("div[role='button']").click();
+});
 
-// Then(/^The residents details are presented in the details page$/, async () => {
-//   await $("a[ui-sref='customer.details'][class='ng-binding']").click();
-// });
+Then(/^The residents details are presented in the details page$/, async () => {
+  await $("a[ui-sref='customer.details'][class='ng-binding']").click();
+});

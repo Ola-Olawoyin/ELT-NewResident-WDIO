@@ -1,3 +1,7 @@
+As A Care Manager
+I want to Log into my manager account
+So that I can add a new care
+
 Feature: Test Creating A Care Reciever Profile
 
     @demo
